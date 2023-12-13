@@ -160,5 +160,6 @@ cython_debug/
 #.idea/
 
 # Data
-
+src/ss_module/dataset
+data/
 
