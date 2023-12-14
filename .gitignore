@@ -160,6 +160,8 @@ cython_debug/
 #.idea/
 
 # Data
-src/ss_module/dataset
-data/
+src/ss_module/dataset/*.tsv
+src/ss_module/dataset/*.csv
+src/ss_module/dataset/cnsfails202310b
+src/ss_module/dataset/cnsfails202311a
 
