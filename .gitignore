@@ -166,3 +166,4 @@ src/ss_module/dataset/cnsfails202310b
 src/ss_module/dataset/cnsfails202311a
 
 src/cfs_module/subset_c.txt
+src/cfs_module/output.csv
