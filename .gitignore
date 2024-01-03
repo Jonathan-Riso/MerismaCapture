@@ -162,8 +162,7 @@ cython_debug/
 # Data
 src/ss_module/dataset/*.tsv
 src/ss_module/dataset/*.csv
-src/ss_module/dataset/cnsfails202310b
-src/ss_module/dataset/cnsfails202311a
+src/ss_module/dataset/cnsfails*
 
 src/cfs_module/subset_c.txt
 src/cfs_module/output.csv
