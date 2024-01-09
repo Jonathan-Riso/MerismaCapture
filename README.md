@@ -1,7 +1,5 @@
 # MerismaCapture - dividend capture automation tool
 
-Simple overview of use/purpose.
-
 ## Description
 
 The aim of a Dividend Capture Algorithm (DCA) is to identify a series of *quality stock dividends, their derivative “put” having an expiration date a few days prior to the ex-dividend date, and their derivative “call” having an expiration date after the ex-dividend date.
