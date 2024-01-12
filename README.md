@@ -38,4 +38,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-* [Tony Riso](https://github.com/trisoheartrun) - Initial idea and contributions during inital release.
+* [Tony Riso](https://github.com/trisoheartrun) - Initial idea and contributions during initial release.
